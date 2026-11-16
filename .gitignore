@@ -1,0 +1,39 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+tf312_env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Python Environment
+.env
+
+# Dataset
+data/
+
+# Temporary Files
+*.log
+*.tmp
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Model Training Checkpoints
+*.weights.h5
+checkpoints/
+
+# TensorFlow Cache
+*.tfrecord
